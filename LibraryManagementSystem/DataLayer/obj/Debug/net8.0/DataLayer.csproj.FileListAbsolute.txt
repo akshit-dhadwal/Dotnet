@@ -1,0 +1,14 @@
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

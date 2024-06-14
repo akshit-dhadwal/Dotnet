@@ -1,0 +1,15 @@
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\bin\Debug\net8.0\DataLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

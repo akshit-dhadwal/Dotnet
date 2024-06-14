@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0047189-CE6C-4AA4-82C8-3F4720B32C50}|APIGateway\\APIGateway.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0047189-CE6C-4AA4-82C8-3F4720B32C50}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0047189-CE6C-4AA4-82C8-3F4720B32C50}|APIGateway\\APIGateway.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0047189-CE6C-4AA4-82C8-3F4720B32C50}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\usermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\usermanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\usermanagementservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0047189-CE6C-4AA4-82C8-3F4720B32C50}|APIGateway\\APIGateway.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0047189-CE6C-4AA4-82C8-3F4720B32C50}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\utils\\apiresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\utils\\apiresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\usermanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05C3C347-9D54-48C8-AC91-3D8132A9F16D}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\responsemodel\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\responsemodel\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\datalayer\\dboperations\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dboperations\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\servicelayer\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412DAA37-9761-4F15-A997-56F546CA72BA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\datalayer\\dboperations\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dboperations\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\datalayer\\dboperations\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dboperations\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\datalayer\\contextfiles\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\contextfiles\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F81A5A8-3A45-49BA-A9A8-155F388E58B0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T09:22:58.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\UserService.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Services\\UserService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:06:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ServiceLayer\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:05:35.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T07:57:30.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:53:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserManagementService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserManagementService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T06:14:39.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagementService\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:14:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Utils\\MappingProfile.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\Utils\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:59:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Utils\\Constants.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Utils\\Constants.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Utils\\Constants.cs",
+              "RelativeToolTip": "ServiceLayer\\Utils\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:59:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponses.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Utils\\ApiResponses.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Utils\\ApiResponses.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\Utils\\ApiResponses.cs",
+              "RelativeToolTip": "ServiceLayer\\Utils\\ApiResponses.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:50:29.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\ResponseModel\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ResponseModel\\ApiResponse.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\ResponseModel\\ApiResponse.cs",
+              "RelativeToolTip": "ServiceLayer\\ResponseModel\\ApiResponse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:45:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T05:39:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagementService\\appsettings.json",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\appsettings.json",
+              "RelativeToolTip": "UserManagementService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T05:36:08.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Program.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\UserManagementService\\Program.cs",
+              "RelativeToolTip": "UserManagementService\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:34:07.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DBOperations\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DBOperations\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DBOperations\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataLayer\\DBOperations\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:31:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DBOperations\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DBOperations\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DBOperations\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "DataLayer\\DBOperations\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:30:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DBOperations\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DBOperations\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DBOperations\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "DataLayer\\DBOperations\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:28:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\ContextFiles\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ContextFiles\\UserDbContext.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\ContextFiles\\UserDbContext.cs",
+              "RelativeToolTip": "DataLayer\\ContextFiles\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:19:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T05:18:43.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

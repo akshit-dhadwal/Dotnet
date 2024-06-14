@@ -1,0 +1,27 @@
+{
+  "Routes": [
+    // UserManagement Service
+    {
+      "UpstreamPathTemplate": "/User/GetUserName",
+      "UpstreamHttpMethod": [ "Get" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5000
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/User/GetUserName"
+    }
+    // BookManagement Service
+
+
+    // Log And Audit Trail Service
+
+  ],
+
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:8000"
+  }
+}
